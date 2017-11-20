@@ -13,6 +13,7 @@ Test 1:
 Developed a sample framework which implements API chaining and tried to address the points asked in Task 1
 
 Test 2:
+
 Hit the https://maps.googleapis.com with my API Key for the origins, destinations, mode provided in the example of the email
 Automated maps.google.com for the same origins, destinations, mode used above and picked up the first result
 Validated/Asserted the API response to the UI Points to be noted :
